@@ -1,5 +1,4 @@
-# rle-image
-RLE Image Compressor – Android Application for Image Compression using Run-Length Encoding
+# RLE Image Compressor
 
 ## Overview
 
