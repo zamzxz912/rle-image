@@ -1,7 +1,5 @@
 # RLE Image Compressor
 
-## Overview
-
 RLE Image Compressor is an Android application that allows users to compress and decompress images using the Run-Length Encoding (RLE) algorithm. The application provides a simple interface for selecting images, applying compression with different processing modes, exporting compressed data as `.rle` files, and restoring images from previously saved compressed files.
 
 This application is developed with a focus on client-side performance, portability, and offline usability. All image processing and file handling is performed directly on the user's device without the need for internet connectivity.
